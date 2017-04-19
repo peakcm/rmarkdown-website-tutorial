@@ -1,0 +1,36 @@
+---
+title: "Publications"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<br>
+
+### 2017: Proceedings of the National Academy of Sciences
+
+The Ebola response was confusing, [especially when that nurse returned from West Africa](http://www.motherjones.com/politics/2014/10/maine-ebola-kaci-hickox-paul-lepage). Was it right to place her in a quarantine tent in New Jersey or should we have monitored her for symptoms at home in Maine all along?
+
+Are we ready to answer this question for the next pandemic, whenever and whatever it may be? In our piece, [Comparing nonpharmaceutical interventions for containing emerging epidemics](https://www.pnas.org/cgi/doi/10.1073/pnas.1616438114), we draw lessons from Ebola, SARS, Influenza, and other epidemic-prone diseases to reveal the conditions under which quarantine can control an outbreak and when symptom monitoring can be similarly effective, though far less costly and less draconian. We also developed an [interactive supplement](https://coreypeak.shinyapps.io/InteractiveQuarantine/) to help you explore our results.
+
+<br>
+
+### 2016: The Lancet
+
+During the highly-publicized Zika epidemic, another vector-borne disease disease was finding a new niche in urban regions of Angola. Although a vaccine exists for Yellow Fever, global supply was depleted twice already in the year and led the WHO to consider splitting each vaccine dose into five fractional doses - to make the supply go five-times as far. Our work, [Fractional dosing of yellow fever vaccine to extend supply: a modelling study](http://dx.doi.org/10.1016/S0140-6736(16)31838-4), investigates, and consequently supports, this strategy.
+
+To share our work in the midst of the epidemic while undergoing peer-review, we posted copies on the [bioRxiv pre-print server](http://biorxiv.org/content/early/2016/05/14/053421.article-info) in advance of the WHO meeting to [proceed with the fractional dose strategy](http://af.reuters.com/article/topNews/idAFKCN0ZM0EV). As the first article published in The Lancet after being deposited on a preprint server ([it seems](https://twitter.com/TheLancetInfDis/status/809043160349442051)), we are encouraged to be part of the movement towards fast and open science.
+
+Press: [New England Journal of Medicine](http://www.jwatch.org/na42849/2016/11/22/model-supports-use-fractional-dosing-yellow-fever-vaccine), [AsianScientist](http://www.asianscientist.com/2016/11/in-the-lab/yellow-fever-vaccine-dose-modelling/)
+
+<br>
+
+### 2015: American Journal of Tropical Medicine and Hygiene
+
+<br>
+
+### 2014: ACS Applied Materials & Interfaces
+
+<br>
+
