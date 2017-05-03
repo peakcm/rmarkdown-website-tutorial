@@ -12,10 +12,15 @@ navbar:
       href: your_turn.html
     - text: "Publications"
       href: publications.html
+    - text: "Resume/CV"
+      href: cv.html
+    - text: "Journal"
+      href: journal.html
+      
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: paper
     highlight: textmate
 #    include:
 #      after_body: _footer.html

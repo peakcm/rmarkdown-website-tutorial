@@ -1,5 +1,5 @@
 ---
-title: "Making free websites with RStudio's R Markdown"
+title: "An Emerging Autobiography"
 author:  "[Corey Peak](https://github.com/peakcm)"
 output:
   html_document:
@@ -10,5 +10,5 @@ output:
 
 I am a doctoral candidate in Infectious Disease Epidemiology at the [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu). Under the guidance of [Caroline Buckee](https://www.hsph.harvard.edu/caroline-buckee/), I use mathematical models and big data to design intervention strategies for control of epidemic-prone diseases including cholera and Ebola. I hold degrees in biomedical engineering, religious studies, and epidemiologic methods from Vanderbilt and Harvard.
 
-Beginning July 2017, I will begin the Centers for Disease Control and Prevention (CDC) Epidemic Intelligence Service (EIS) fellowship.
+Starting July 2017, I will begin the Centers for Disease Control and Prevention (CDC) Epidemic Intelligence Service (EIS) fellowship.
 

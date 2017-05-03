@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Under Development
+
+<!-- Somehow link to a pdf copy of my CV, or compile the tex on this page -->

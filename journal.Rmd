@@ -1,0 +1,16 @@
+---
+title: "I'll write my way out..."
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<br>
+
+### 2017-04-17: The (un)examined life
+
+> "An unexamined life is not worth living." 
+<br>
+> - Socrates
+
